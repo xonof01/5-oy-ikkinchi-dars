@@ -15,10 +15,6 @@
 // let sum = name('salom xayr');
 // console.log(sum);
 
-// 2-savol
-
-
-
 // 3 misol
 // let res = ('s5a6l8o8m');
 // function name(str) {
@@ -83,7 +79,26 @@
 // }
 // console.log(name(res1));
 
-// 8 misol
+// 8-savol
+
+// let arr = ["gap", "salom", "nima"]
+
+// function func(arr) {
+//     let newArr = arr[0]
+
+//     for (let i = 0; i < arr.length; i++) {
+//         if (arr[i].length > newArr.length) {
+//             newArr = arr[i]
+//         }
+
+//     }
+
+//     return newArr
+
+// }
+
+// let natija = func(arr)
+// console.log(natija);
 
 // 9 misol
 
